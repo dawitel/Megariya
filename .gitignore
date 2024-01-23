@@ -1,5 +1,5 @@
 node_modules
 design-files
-.env
+.env.local
 .env.e2e
 .vscode
