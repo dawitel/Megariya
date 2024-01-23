@@ -1,0 +1,5 @@
+node_modules
+design-files
+.env
+.env.e2e
+.vscode
